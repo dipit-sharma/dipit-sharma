@@ -52,5 +52,6 @@ Innovative and results-driven Full-Stack Engineer with 2+ years of experience in
 ## 📫 Connect with Me
 
 - [GitHub Profile](https://github.com/dipit-sharma)
+- [Mail: ds.techin@gmail.com](sd.techin@gmail.com)
 
 Feel free to connect or check out my repositories for more about my work!
