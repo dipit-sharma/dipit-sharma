@@ -32,6 +32,15 @@ Innovative and results-driven Full-Stack Engineer with 2+ years of experience in
 
 ---
 
+## 🛠️ Projects
+
+- **Casual Games** [link](http://51.21.193.65): A full-stack project which has 2 casual games. For animation in games, **react-native** **reanimated**, **react-native gesture handler** are used. React **context API** is used for state management, and **custom hooks** for game loops are used. This project is hosted on an **AWS EC2** server.
+    - **Ping Pong**: Ping-pong game with single-player and multiplayer support.  For multiplayer mode, player matching is done using **Redis** and **Websocket** is used for movement synchronisation. The physics engine is implemented on **Node.js**.
+    - **Ludo**: Component-based architecture with the **factory pattern** is used.
+- **Full-stack Website**: [meerasight.com](https://meerasight.com/) A full-stack website developed using **Next.js** and **Node.js**, deployed on **Firebase**. It is a freelancing project done for a small medical business, from which users can book appointments for various services.
+  
+---
+
 ## 🛠️ Languages & Technologies
 
 - **Frontend:** React JS, React Native
