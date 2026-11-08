@@ -49,7 +49,7 @@ participate in festive discounts. Implemented a batched event-tracking mechanism
 multiplayer mode WebSockets are used for movement synchronisation in real-time.
 - **Next Inspect** ([npm](https://www.npmjs.com/package/@dipit_sharma/next-inspect)) — Implemented a network interception and logging library to capture server-side HTTP requests and responses, and built a WebSocket-based communication layer to stream logs from the server to a frontend monitoring interface in real time. Developed a frontend log viewer that establishes a WebSocket connection, listens for incoming log events, and displays server-side network activity.
 - **React Native Sequential Modal Manager** ([npm](https://www.npmjs.com/package/react-native-sequential-modal-manager)) — A powerful and flexible npm package that ensures only one modal is open at a time in React Native applications, with support for modal queuing, priority management, and automatic sequencing.
-- **UI Components** ([Explore](https://resume-catalog-981857893691.asia-south1.run.app/)) — A list of challenging components created by me during my work tenure. They are made in Next JS, the focus was mainly on CSS and HTML, responsive web design and cross browser compatibility. Github repo - (link)
+- **UI Components** ([Explore](https://resume-catalog-981857893691.asia-south1.run.app/)) — A list of challenging components created by me during my work tenure. They are made in Next JS, the focus was mainly on CSS and HTML, responsive web design and cross browser compatibility. Github repo - ([link](https://github.com/dipit-sharma/resume-catalog))
   
 ---
 
