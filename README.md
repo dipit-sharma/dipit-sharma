@@ -7,28 +7,39 @@ Location: India
 
 ## 🧑‍💻 About Me
 
-Innovative and results-driven Full-Stack Engineer with 2+ years of experience in building scalable web and mobile applications using modern technologies. I have a passion for solving complex problems, architecting robust systems, and delivering impactful solutions for both web and mobile platforms.
+Solution-driven front-end engineer with 3+ years of experience in developing mobile & web applications using modern technologies such as **React**, **JavaScript (ES6+)**, **TypeScript and Next Js**. Contributed to critical projects at leading tech companies like **Games24x7**, **MakeMyTrip** and **Zee5**. I played a key role in shipping pixel-precise, fully-tested features across web platforms and mobile apps.
 
 ---
 
 ## 💼 Experience
 
-### **Games24x7** (June 2025 – Present)  
-*Full-stack Engineer, Bangalore, India*
+### **Zee Entertainment** (September 2025 – Present)
+*Frontend Web, Bangalore, India*
 
-- **Ludo Admin Portal (React JS):** Designed and developed a scalable, real-time admin portal for managing the Wowzy gaming platform. Architected the internal platform for efficient configuration and management of game rooms, user settings, and tournament structures. Focused on reusable components and process streamlining.
-- **Apps OTA Integration (React Native):** Integrated real-time Over-The-Air (OTA) updates using Microsoft CodePush SDK, enabling instant deployment of updates and hotfixes to mobile apps without new downloads.
+- Zee 2.0 (**Next Js**) - Took the ownership of developing new components, API modifications for server-side rendering and enhancing
+user-experience for web, decreasing page load time by 20%. Led 3 associate engineers and developed complex components, reviewed
+each PR and managed tasks, bugs solving within given timelines.
+- FIFA 2026 Broadcasting (**Next Js**) – Architected a resilient SOS system featuring API blocking and CDN cached responses, reducing server load by 30%. Optimized data fetching by implementing polling with jittering to mitigate thundering herd issues; integrated server-side event architecture for real-time live commentary, later replaced it with polling for handling high throughput.
+- OTT As Service (**React Js, JSON driven UI**) – Built a new MVP platform from scratch which allows users to create their own OTT
+platform. Users can choose their own UI and color theme, even customize it and upload their own content like movies, series etc; used signed URLs and XHR requests for video and file uploading; created all the test cases (Jest) and designed the API contracts.
+- Login SDK (**Typescript**): Created a TypeScript SDK to handle all the login flows so that it can be used by all the teams for integration. I handled all the API calls in the SDK, exposed developer-friendly hooks - useOTPLogin, useQRLogin etc for convenient development; used dependency injection method to call the APIs.
+
+### **Games24x7** (June – September 2025)  
+*Frontend Web and Mobile, Bangalore, India*
+
+- Ludo Admin Portal (React Native) – Designed and developed a scalable, real-time admin portal for managing the Wowzy gaming
+platform using React Native and Redux Toolkit. Built reusable components and utilities to streamline the development process and
+ensure consistency across the admin dashboard.
+- Apps OTA Integration (React JS) – Integrated Over-The-Air (OTA) update functionality in React Native mobile apps using Microsoft
+CodePush SDK, enabling real-time deployment of updates and hotfixes without requiring users to download a new app version
 
 ### **MakeMyTrip** (August 2023 – June 2025)  
-*Full-stack Engineer, Gurgaon, India*
+*Frontend Mobile + Web, Gurgaon, India*
 
-- **F L Y W H E E L (React JS):** Built a comprehensive analytical logging system, providing over 20+ actionable data insights for competitive research.
-- **Post Promotion Prices (React JS, Java):** Optimized system performance by consolidating 7 API calls into a single endpoint, reducing network latency and improving response time by 40%.
-- **Sale Handling (Java):** Engineered scalable and maintainable system architecture integrating RDBMS, microservices, and RESTful APIs.
-- **Special Ops 2.0 (React Native, Java):** Delivered an MVP for a new idea in the MakeMyTrip mobile app within a month, collaborating on solutions to technical challenges under tight deadlines.
-- **Client Backend (Go, SQL):** Prototyped and launched a Go-based microservice, cutting latency by 600ms and doubling data throughput.
-- **Photos & Videos Module (React Native):** Redesigned the module to enhance hotel owner and customer experience, enabling seamless image/video management.
-- **First Booking Promotion:** Built a new promotional feature for MakeMyTrip Android and iOS apps using React Native to boost hotel owner business.
+- Hotel CMS (React Js) – Developed interactive discount management modules for a data-intensive hotel management platform, enabling
+hotel owners to manage promotional offers and view final room prices after applying applicable discounts, enabling 5M users to
+participate in festive discounts. Implemented a batched event-tracking mechanism using a queue to accumulate events and dispatch them in batches when the queue reached its threshold, reducing individual API requests by 50% and improving event delivery efficiency.
+- Reel Creator App (React Native) – Developed a personalized travel-reel creation feature in MakeMyTrip's mobile app, allowing users to select trip photos and preview automatically composed reels with destination-relevant music, captions, and transitions. Integrated backend APIs to retrieve personalized media assets based on users' trip
 
 ---
 
