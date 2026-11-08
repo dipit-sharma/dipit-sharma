@@ -62,16 +62,9 @@ participate in festive discounts. Implemented a batched event-tracking mechanism
 
 ---
 
-## 📈 GitHub Stats
-
-- 100+ public repositories
-- Always exploring and learning new technologies!
-
----
-
 ## 📫 Connect with Me
 
-- [GitHub Profile](https://github.com/dipit-sharma)
+- [LinkedIn Profile](https://www.linkedin.com/in/dipit-sharma-216b11197/)
 - [Mail: ds.techin@gmail.com](sd.techin@gmail.com)
 
 Feel free to connect or check out my repositories for more about my work!
