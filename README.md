@@ -45,10 +45,11 @@ participate in festive discounts. Implemented a batched event-tracking mechanism
 
 ## 🛠️ Projects
 
-- **Casual Games** [link](http://51.21.193.65): A full-stack project which has 2 casual games. For animation in games, **react-native** **reanimated**, **react-native gesture handler** are used. React **context API** is used for state management, and **custom hooks** for game loops are used. This project is hosted on an **AWS EC2** server.
-    - **Ping Pong**: Ping-pong game with single-player and multiplayer support.  For multiplayer mode, player matching is done using **Redis** and **Websocket** is used for movement synchronisation. The physics engine is implemented on **Node.js**.
-    - **Ludo**: Component-based architecture with the **factory pattern** is used.
-- **Full-stack Website**: [meerasight.com](https://meerasight.com/) A full-stack website developed using **Next.js** and **Node.js**, deployed on **Firebase**. It is a freelancing project done for a small medical business, from which users can book appointments for various services.
+- **Casual Games** (Pong, Ludo) ([Play here!](https://ping-pong-981857893691.europe-west1.run.app/)) — A full-stack project with 2 casual games. react-native reanimated, react-native gesture handler used for animation. The physics engine is implemented on Node.js. PM2 + AWS Server used to deploy the project. For
+multiplayer mode WebSockets are used for movement synchronisation in real-time.
+- **Next Inspect** ([npm](https://www.npmjs.com/package/@dipit_sharma/next-inspect)) — Implemented a network interception and logging library to capture server-side HTTP requests and responses, and built a WebSocket-based communication layer to stream logs from the server to a frontend monitoring interface in real time. Developed a frontend log viewer that establishes a WebSocket connection, listens for incoming log events, and displays server-side network activity.
+- **React Native Sequential Modal Manager** ([npm](https://www.npmjs.com/package/react-native-sequential-modal-manager)) — A powerful and flexible npm package that ensures only one modal is open at a time in React Native applications, with support for modal queuing, priority management, and automatic sequencing.
+- **UI Components** ([Explore](https://resume-catalog-981857893691.asia-south1.run.app/)) — A list of challenging components created by me during my work tenure. They are made in Next JS, the focus was mainly on CSS and HTML, responsive web design and cross browser compatibility. Github repo - (link)
   
 ---
 
