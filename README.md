@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dipit Sharma
 
-**Full-Stack Engineer | Games24x7 | Ex-MakeMyTrip**  
+**Frontend Engineer | Zee Entertainment| Ex-Games24x7 | Ex-MakeMyTrip**  
 Location: India
 
 ---
@@ -27,19 +27,16 @@ platform. Users can choose their own UI and color theme, even customize it and u
 ### **Games24x7** (June – September 2025)  
 *Frontend Web and Mobile, Bangalore, India*
 
-- Ludo Admin Portal (React Native) – Designed and developed a scalable, real-time admin portal for managing the Wowzy gaming
+- Ludo Admin Portal (**React Native**) – Designed and developed a scalable, real-time admin portal for managing the Wowzy gaming
 platform using React Native and Redux Toolkit. Built reusable components and utilities to streamline the development process and
 ensure consistency across the admin dashboard.
-- Apps OTA Integration (React JS) – Integrated Over-The-Air (OTA) update functionality in React Native mobile apps using Microsoft
-CodePush SDK, enabling real-time deployment of updates and hotfixes without requiring users to download a new app version
+- Apps OTA Integration (**React JS**) – Integrated Over-The-Air (OTA) update functionality in React Native mobile apps using Microsoft CodePush SDK, enabling real-time deployment of updates and hotfixes without requiring users to download a new app version
 
 ### **MakeMyTrip** (August 2023 – June 2025)  
 *Frontend Mobile + Web, Gurgaon, India*
 
-- Hotel CMS (React Js) – Developed interactive discount management modules for a data-intensive hotel management platform, enabling
-hotel owners to manage promotional offers and view final room prices after applying applicable discounts, enabling 5M users to
-participate in festive discounts. Implemented a batched event-tracking mechanism using a queue to accumulate events and dispatch them in batches when the queue reached its threshold, reducing individual API requests by 50% and improving event delivery efficiency.
-- Reel Creator App (React Native) – Developed a personalized travel-reel creation feature in MakeMyTrip's mobile app, allowing users to select trip photos and preview automatically composed reels with destination-relevant music, captions, and transitions. Integrated backend APIs to retrieve personalized media assets based on users' trip
+- Hotel CMS (**React Js**) – Developed interactive discount management modules for a data-intensive hotel management platform, enabling hotel owners to manage promotional offers and view final room prices after applying applicable discounts, enabling 5M users to participate in festive discounts. Implemented a batched event-tracking mechanism using a queue to accumulate events and dispatch them in batches when the queue reached its threshold, reducing individual API requests by 50% and improving event delivery efficiency.
+- Reel Creator App (**React Native**) – Developed a personalized travel-reel creation feature in MakeMyTrip's mobile app, allowing users to select trip photos and preview automatically composed reels with destination-relevant music, captions, and transitions. Integrated backend APIs to retrieve personalized media assets based on users' trip
 
 ---
 
@@ -55,11 +52,9 @@ multiplayer mode WebSockets are used for movement synchronisation in real-time.
 
 ## 🛠️ Languages & Technologies
 
-- **Frontend:** React JS, React Native
-- **Backend:** Java, Go, Node.js
-- **Databases:** SQL, RDBMS
-- **DevOps & Tools:** Microservices, RESTful APIs, Microsoft CodePush, OTA updates
-- **Mobile:** Android, iOS, React Native
+- **Frontend:** Javascript, TypeScript, Next.js, React Native, Redux Toolkit, Server-Side Rendering (SSR), React Profiler, Web
+Vitals, SEO, Zustand
+- **Backend & Infra:** REST APIs, API Gateway, WebSockets, AWS, Google Cloud Run
 
 ---
 
